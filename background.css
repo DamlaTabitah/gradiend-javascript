@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, .5);
+    letter-spacing: 3.5em;
+    top: 15%;
+    background: linear-gradient(to right,red,yellow);
+
+}
+h1 {
+    font: 600 3.5em,'raleway' sans-serif;
+    text-align: center;
+    color: rgba(0, 0, 0, .5);
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+
+}
+h2 {
+    font: 900 1em,'raleway' sans-serif;
+    text-align: center;
+    color: rgba(0, 0, 0, .5);
+    text-transform: non;
+    letter-spacing: 0.1em;
+    width: 100%;
+
+
+}
